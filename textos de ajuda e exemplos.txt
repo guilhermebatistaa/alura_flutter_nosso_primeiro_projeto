@@ -1,0 +1,40 @@
+Dash:
+https://ih1.redbubble.net/image.1076687066.0716/st,small,507x507-pad,600x600,f8f8f8.u2.jpg
+
+Dash 2:
+https://codelabs.developers.google.com/static/codelabs/flutter-flame-game/img/367c321fdf1743bc.png
+
+*Colocar um campo de check para entrar na lista de compra mesmo com o estoque atual e mínimo estiverem zerados.
+*Quem sabe colocar uma imagem através de link/baixar local.
+
+
+
+
+
+*existe função quando solta o botão? ~não lembro pra que isso
+*Criar a regra de ordenação.
+*Criar o botão para trocar de ordenação.
+*Criar a barra de rodapé.
+*Ver função de puxar pra baixo/realod.
+*Criar pasta assets para adicionar as imagens fixas de fundo.
+*Tema: Escolher as cores para comida/mercado.
+
+
+
+
+Respostas informativas (100 a 199);
+Respostas bem-sucedidas (200 a 299);
+Mensagens de redirecionamento (300 a 399);
+Respostas de erro do cliente (400 a 499);
+Respostas de erro do servidor (500 a 599).
+
+
+
+instalando pacote http
+flutter pub add http
+
+~Isso deve adicionar a seguinte linha no seu arquivo pubspec.yaml:
+dependencies:
+  HTTP: ^0.13.5
+
+import 'package:http/http.dart' as http;
