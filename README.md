@@ -1,4 +1,6 @@
-# nosso_primeiro_projeto
+# alura_flutter_nosso_primeiro_projeto
+
+Desenvolvido a partir do curso de Flutter/Dart da Alura.
 
 A new Flutter project.
 
